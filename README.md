@@ -1,4 +1,4 @@
-# Python-Based-Multi-Line-Console-Text-Editor
+# Python-Based Multi-Line Console Text Editor
 
 **CSC1002 Computational Laboratory | Assignment 3**
 
