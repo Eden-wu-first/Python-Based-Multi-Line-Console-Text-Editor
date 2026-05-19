@@ -1,6 +1,8 @@
 # Python-Based Multi-Line Console Text Editor
 
-**CSC1002 Computational Laboratory | Assignment 3**
+**CSC1002: Computational Laboratory | Assignment 3**
+
+This is a course project for **CSC1002: Computational Laboratory** at **CUHK-Shenzhen**. Please do not submit it as your own assignment.
 
 A simple console-based multi-line text editor with Vim-like command operations, implemented in pure Python. It supports cursor movement, text editing, copy/paste, undo/redo, and display control, following the CSC1002 2025 assignment specifications.
 
