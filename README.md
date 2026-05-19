@@ -90,5 +90,10 @@ python main.py
 
 ---
 
+## 📄 License
+This project is open-sourced under the MIT License — you can freely use, modify and distribute it with copyright notice.
+
+---
+
 ## 📝 Notes
 This is a course assignment project for CSC1002 Computational Laboratory in CUHK-Shenzhen. All functions strictly follow the requirements in `Editor-Multi-Line-Basic-2025.pdf`.
